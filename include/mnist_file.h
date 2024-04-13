@@ -3,6 +3,7 @@
 
 #include <stdint.h>
 
+#define NUM_THREADS 1
 #define MNIST_LABEL_MAGIC 0x00000801
 #define MNIST_IMAGE_MAGIC 0x00000803
 #define MNIST_IMAGE_WIDTH 28
